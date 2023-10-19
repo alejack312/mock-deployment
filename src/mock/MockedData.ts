@@ -316,5 +316,3 @@ mockSearchMap.set("Jason", studentSearchJason);
 mockSearchMap.set("2020", postsecondaryeducation);
 mockSearchMap.set("Brown University", postsecondaryeducation);
 
-
-console.log(" " == 0);
