@@ -11,6 +11,8 @@ export function App() {
    *
    * @returns {JSX.Element} The JSX element representing the App component.
    */
+  console.log("Rendering App component...");
+  
   return (
     <div className="App">
       <p className="App-header">
