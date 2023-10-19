@@ -7,7 +7,6 @@ export default defineConfig(() => {
       outDir: 'build',
     },
     plugins: [react()],
-    base: "/mock-deployment/",
     server: {
       port: 8000,
     },
